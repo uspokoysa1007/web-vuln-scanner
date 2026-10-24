@@ -1,0 +1,3 @@
+# Планируемые зависимости:
+# requests
+# beautifulsoup4
